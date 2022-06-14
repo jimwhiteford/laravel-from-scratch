@@ -16,7 +16,7 @@
                             <img src="/images/lary-avatar.svg" alt="Lary avatar">
                             <div class="ml-3 text-left">
                                 <h5 class="font-bold">{{ $post->author->name }}</h5>
-                                <h6>Mascot</h6>
+                                <h6>Mascot is here</h6>
                             </div>
                         </div>
                     </div>
